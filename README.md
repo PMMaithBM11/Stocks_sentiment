@@ -2,7 +2,7 @@
 
 This is my project during my Research Internship where I have studied about the effects of twitter tweets on the stock index or the stock price of a particular company (NetFlix).
 The aim was to increase the accuracy of prediction of the stock index by also including another variable- Tweet factor, which represesnts
-the public sentiment about that company a few days prior, which further aids in predicting the stock index in the near future.
+the public sentiment about that company a few days prior, which further aids in predicting the stock prices in the near future.
 
 
 ## Background:
